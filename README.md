@@ -3,6 +3,8 @@ This Open Source research project aims to democratize the process of automatic b
 
 First models and example beatmaps are **coming really soon** (You Gotta Believe)!
 
+This is a test
+
 ## How to Contribute & Roadmap
 This repository is still a **WORK IN PROGRESS**. The goal is to develop generative models capable of automatically producing beatmaps for a diverse array of rhythm games, regardless of the song. This research is still ongoing, but the aim is to get MVPs out as fast as possible.
 
